@@ -14,6 +14,7 @@ I code in **C++**, **Java**, and **Python**, and I’m currently diving deep int
 - 💃 Nritya AI – AI Dance Companion [[link]](https://github.com/reyagarg13/Nritya_AI)
 - 🌸 BEAUTY_OF_GARDEN [[link]](https://github.com/reyagarg13/BEAUTY_OF_GARDEN)
 - 📝 Handwritten-digits-and-character-recognition-HINDI [[link]](https://github.com/reyagarg13/Handwritten-digits-and-character-recognition-HINDI)
+- 🎵 AI-Based-Music-Generator [link]  
 
 ---
 
