@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**reyagarg13/reyagarg13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Reya — a B.Tech Computer Science student at Bennett University.  
+I code in **C++**, **Java**, and **Python**, and I’m currently diving deep into **DSA** and **AI/ML**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: Nritya AI – an AI-powered dance learning platform  
+- 👯 I’m looking to collaborate on: AI/ML + Creative Tech projects  
+- 💬 Ask me about: C++, DSA, or how to turn wild ideas into working prototypes  
+- 📫 How to reach me: www.linkedin.com/in/reya-garg-b71a1b274 or reyagarg13@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects I'm proud of:
+- 💃 Nritya AI – AI Dance Companion [link]
+- ☕ Cafe Management System [link]
+- 👩‍💼 Employee Management System [link]
+
+---
+
+### 📊 GitHub Stats:
+![Reya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyagarg13&show_icons=true&theme=tokyonight)
