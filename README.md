@@ -21,6 +21,13 @@ I code in **C++**, **Java**, and **Python**, and I’m currently diving deep int
 ### 📊 GitHub Stats:
 ![Reya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyagarg13&show_icons=true&theme=tokyonight)
 
+
+### 📈 GitHub Stats & Streaks
+![Reya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyagarg13&show_icons=true&theme=tokyonight)
+![Reya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=reyagarg13&theme=tokyonight)
+![Reya's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyagarg13&layout=compact&theme=tokyonight)
+
+
 ---
 
 ### 🛠️ Languages & Tools
