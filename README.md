@@ -18,6 +18,19 @@ I code in **C++**, **Java**, and **Python**, and I’m currently diving deep int
 
 ---
 
+### 📝 Upcoming Blog Series
+
+I’m working on writing technical blogs to share what I’m learning.  
+Here’s what’s coming soon:
+
+- **How I Built Nritya AI** – A breakdown of my AI-powered dance learning platform.
+- **From Idea to MVP** – Turning raw project ideas into working prototypes.
+- **DSA Demystified** – Easy-to-digest posts on core data structures and algorithms.
+
+> Stay tuned – I’ll be publishing these very soon!
+
+---
+
 ### 📈 GitHub Stats & Streaks
 ![Reya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyagarg13&show_icons=true&theme=tokyonight)
 ![Reya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=reyagarg13&theme=tokyonight)
