@@ -12,7 +12,7 @@ I code in **C++**, **Java**, and **Python**, and I’m currently diving deep int
 
 ### 🚀 Projects I'm proud of:
 - 💃 Nritya AI – AI Dance Companion [link]
-- 🌸 BEAUTY_OF_GARDEN [link]
+- 🌸 BEAUTY_OF_GARDEN [[link]](https://github.com/reyagarg13/BEAUTY_OF_GARDEN)
 - 📝 Handwritten-digits-and-character-recognition-HINDI [link]
 
 ---
