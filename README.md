@@ -12,8 +12,8 @@ I code in **C++**, **Java**, and **Python**, and I’m currently diving deep int
 
 ### 🚀 Projects I'm proud of:
 - 💃 Nritya AI – AI Dance Companion [link]
-- ☕ Cafe Management System [link]
-- 👩‍💼 Employee Management System [link]
+- 🌸 BEAUTY_OF_GARDEN [link]
+- 📝 Handwritten-digits-and-character-recognition-HINDI [link]
 
 ---
 
