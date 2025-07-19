@@ -11,10 +11,10 @@ I code in **C++**, **Java**, and **Python**, and I’m currently diving deep int
 ---
 
 ### 🚀 Projects I'm proud of:
-- 💃 Nritya AI – AI Dance Companion [[link]](https://github.com/reyagarg13/Nritya_AI)
-- 🌸 BEAUTY_OF_GARDEN [[link]](https://github.com/reyagarg13/BEAUTY_OF_GARDEN)
-- 📝 Handwritten-digits-and-character-recognition-HINDI [[link]](https://github.com/reyagarg13/Handwritten-digits-and-character-recognition-HINDI)
-- 🎵 AI-Based-Music-Generator [[link]](https://github.com/pallav110/AI-Based-Music-Generator)  
+- 💃 [Project repo – Nritya AI](https://github.com/reyagarg13/Nritya_AI)
+- 🌸 [Project repo – BEAUTY_OF_GARDEN](https://github.com/reyagarg13/BEAUTY_OF_GARDEN)
+- 📝 [Project repo – Handwritten Digits and Characters (Hindi)](https://github.com/reyagarg13/Handwritten-digits-and-character-recognition-HINDI)
+- 🎵 [Project repo – AI-Based Music Generator](https://github.com/pallav110/AI-Based-Music-Generator)
 
 ---
 
