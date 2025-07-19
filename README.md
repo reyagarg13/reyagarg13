@@ -37,3 +37,7 @@ I code in **C++**, **Java**, and **Python**, and I’m currently diving deep int
 ### 🏆 GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=reyagarg13&theme=gruvbox)
 
+---
+
+### 📜 License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
