@@ -30,3 +30,8 @@ I code in **C++**, **Java**, and **Python**, and I’m currently diving deep int
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
+
+### 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=reyagarg13&theme=gruvbox)
+
