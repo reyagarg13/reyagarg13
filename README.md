@@ -1,56 +1,95 @@
-## Hi there 👋
+# 👋 Hi, I’m Reya Garg
 
-I'm Reya — a B.Tech Computer Science student at Bennett University.  
-I code in **C++**, **Java**, and **Python**, and I’m currently diving deep into **DSA** and **AI/ML**.
+🎓 B.Tech CSE Student | 💻 Aspiring Software Engineer  
+🤖 AI & ML Enthusiast | 🧠 DSA Learner | 🚀 Product-Oriented Builder
 
-- 🔭 I’m currently working on: Nritya AI – an AI-powered dance learning platform  
-- 👯 I’m looking to collaborate on: AI/ML + Creative Tech projects  
-- 💬 Ask me about: C++, DSA, or how to turn wild ideas into working prototypes  
-- 📫 How to reach me: www.linkedin.com/in/reya-garg-b71a1b274 or reyagarg13@gmail.com  
+> Building practical software with strong fundamentals and real-world impact.
 
 ---
 
-### 🚀 Projects I'm proud of:
-- 💃 [Project repo – Nritya AI](https://github.com/reyagarg13/Nritya_AI)
-- 🌸 [Project repo – BEAUTY_OF_GARDEN](https://github.com/reyagarg13/BEAUTY_OF_GARDEN)
-- 📝 [Project repo – Handwritten Digits and Characters (Hindi)](https://github.com/reyagarg13/Handwritten-digits-and-character-recognition-HINDI)
-- 🎵 [Project repo – AI-Based Music Generator](https://github.com/pallav110/AI-Based-Music-Generator)
+## 👩‍💻 About Me
+I’m a Computer Science undergraduate focused on **building complete, usable products** — not just demos.  
+I value strong fundamentals, clean logic, and learning by shipping real projects.
+
+- Strong foundation in **Data Structures & Algorithms**
+- Comfortable with **C++, Python, JavaScript**
+- Experience with **AI/ML and Full-Stack development**
+- Interested in **AI-driven products and scalable systems**
+- Consistency beats motivation
 
 ---
 
-### 📝 Upcoming Blog Series
+## 🛠 Tech Stack
+**Languages**  
+C++ | Python | JavaScript  
 
-I’m working on writing technical blogs to share what I’m learning.  
-Here’s what’s coming soon:
+**Web & Backend**  
+HTML | CSS | Flask  
 
-- **How I Built Nritya AI** – A breakdown of my AI-powered dance learning platform.
-- **From Idea to MVP** – Turning raw project ideas into working prototypes.
-- **DSA Demystified** – Easy-to-digest posts on core data structures and algorithms.
+**AI / ML**  
+TensorFlow | NumPy | Pandas | Computer Vision | NLP  
 
-> Stay tuned – I’ll be publishing these very soon!
-
----
-
-### 📈 GitHub Stats & Streaks
-![Reya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyagarg13&show_icons=true&theme=tokyonight)
-![Reya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=reyagarg13&theme=tokyonight)
-![Reya's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyagarg13&layout=compact&theme=tokyonight)
+**Tools**  
+Git | GitHub  
 
 ---
 
-### 🛠️ Languages & Tools
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## ⭐ Featured Projects
+
+### 💼 FinSteps BizGrow  
+A business-focused financial platform for managing **loans, investments, and growth insights**, with structured backend logic and database integration.  
+**Tech:** HTML, CSS, JavaScript, Backend APIs, Database  
 
 ---
 
-### 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=reyagarg13&theme=gruvbox)
+### 🩺 MediScribe AI  
+AI-powered medical transcription system that converts doctor-patient conversations into structured medical notes.  
+**Tech:** Python, AI/ML, NLP  
 
 ---
 
-### 📜 License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+### 🏋️ FitTrack Pro  
+A fitness tracking web application to monitor workouts, routines, and user goals through an intuitive interface.  
+**Tech:** HTML, CSS, JavaScript  
+
+---
+
+### 🕺 Nritya AI — AI Dance Companion  
+AI-powered dance learning platform featuring choreography generation, motion tracking, emotion detection, and beat synchronization.  
+**Tech:** Python, Machine Learning, Computer Vision  
+
+---
+
+### ✍️ Handwritten Digit & Character Recognition (Hindi OCR)  
+Machine learning model for recognizing handwritten **Devanagari characters** for OCR-based applications.  
+**Tech:** Python, TensorFlow  
+
+---
+
+### 🎵 AI-Based Music Generator  
+Web-based application that generates music patterns using AI concepts.  
+**Tech:** HTML, JavaScript  
+
+👉 Continuously building, refining, and learning.
+
+---
+
+## 🧠 DSA & Problem Solving
+- Regular practice on **LeetCode**
+- Focus on **Arrays, Strings, Recursion, STL**
+- Emphasis on writing optimized and readable solutions
+- Learning patterns, not memorization
+
+---
+
+## 📊 GitHub Stats
+![Reya's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyagarg13&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reyagarg13&layout=compact)
+
+---
+
+## 📫 Let’s Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/reyagarg-b71a1b274  
+- 📧 Email: reyagarg13@gmail.com  
+
+✨ Open to internships, collaborations, and learning opportunities.
