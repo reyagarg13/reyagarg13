@@ -1,95 +1,90 @@
-# 👋 Hi, I’m Reya Garg
+## Hi there 👋
 
-🎓 B.Tech CSE Student | 💻 Aspiring Software Engineer  
-🤖 AI & ML Enthusiast | 🧠 DSA Learner | 🚀 Product-Oriented Builder
+I'm Reya — a B.Tech Computer Science student at Bennett University.  
+I enjoy building **real, usable software** and learning by shipping projects.
 
-> Building practical software with strong fundamentals and real-world impact.
+I code in **C++, Java, and Python**, and I’m currently diving deep into **DSA and AI/ML**.
 
----
-
-## 👩‍💻 About Me
-I’m a Computer Science undergraduate focused on **building complete, usable products** — not just demos.  
-I value strong fundamentals, clean logic, and learning by shipping real projects.
-
-- Strong foundation in **Data Structures & Algorithms**
-- Comfortable with **C++, Python, JavaScript**
-- Experience with **AI/ML and Full-Stack development**
-- Interested in **AI-driven products and scalable systems**
-- Consistency beats motivation
+- 🚀 I’m currently working on **Nritya AI** — an AI-powered dance learning platform  
+- 🤝 I’m looking to collaborate on **AI/ML and system-focused projects**  
+- 💬 Ask me about **C++, DSA, AI/ML, or turning ideas into working prototypes**  
+- 📫 How to reach me:  
+  [LinkedIn](https://www.linkedin.com/in/reya-garg-b71a1b274) • reyagarg13@gmail.com  
 
 ---
 
-## 🛠 Tech Stack
-**Languages**  
-C++ | Python | JavaScript  
+## 🚀 Projects I’m proud of
 
-**Web & Backend**  
-HTML | CSS | Flask  
+Here are some projects that reflect my interests in **AI, full-stack development, and problem-solving**:
 
-**AI / ML**  
-TensorFlow | NumPy | Pandas | Computer Vision | NLP  
+- 🩰 **Nritya AI**  
+  AI-powered dance learning platform with choreography generation, motion tracking, emotion detection, and beat synchronization.  
+  *(Python, Machine Learning, Computer Vision)*  
 
-**Tools**  
-Git | GitHub  
+- 💼 **FinSteps BizGrow**  
+  Business-focused financial platform for managing loans, investments, and growth insights with backend logic and database integration.  
+  *(HTML, CSS, JavaScript, Backend, Database)*  
 
----
+- 🩺 **MediScribe AI**  
+  AI-based medical transcription system that converts doctor–patient conversations into structured medical notes.  
+  *(Python, AI/ML, NLP)*  
 
-## ⭐ Featured Projects
+- 🏋️ **FitTrack Pro**  
+  Web-based fitness tracking application to monitor workouts, routines, and personal fitness goals.  
+  *(HTML, CSS, JavaScript)*  
 
-### 💼 FinSteps BizGrow  
-A business-focused financial platform for managing **loans, investments, and growth insights**, with structured backend logic and database integration.  
-**Tech:** HTML, CSS, JavaScript, Backend APIs, Database  
+- ✍️ **Handwritten Digits & Characters Recognition (Hindi)**  
+  Machine learning model for recognizing handwritten Devanagari characters for OCR applications.  
+  *(Python, TensorFlow)*  
 
----
+- 🎵 **AI-Based Music Generator**  
+  Web application that generates music patterns using AI concepts and algorithmic logic.  
+  *(HTML, JavaScript)*  
 
-### 🩺 MediScribe AI  
-AI-powered medical transcription system that converts doctor-patient conversations into structured medical notes.  
-**Tech:** Python, AI/ML, NLP  
-
----
-
-### 🏋️ FitTrack Pro  
-A fitness tracking web application to monitor workouts, routines, and user goals through an intuitive interface.  
-**Tech:** HTML, CSS, JavaScript  
-
----
-
-### 🕺 Nritya AI — AI Dance Companion  
-AI-powered dance learning platform featuring choreography generation, motion tracking, emotion detection, and beat synchronization.  
-**Tech:** Python, Machine Learning, Computer Vision  
+- 🌿 **BEAUTY_OF_GARDEN**  
+  A creative Python project focused on experimentation and visual logic.  
+  *(Python)*  
 
 ---
 
-### ✍️ Handwritten Digit & Character Recognition (Hindi OCR)  
-Machine learning model for recognizing handwritten **Devanagari characters** for OCR-based applications.  
-**Tech:** Python, TensorFlow  
+## 🛡️ Upcoming Project — DRDO Problem Statement
+
+I’m currently working on a project inspired by a **DRDO problem statement**, focused on applying **AI and Computer Vision** to solve a real-world defense and security challenge.
+
+Planned focus areas include:
+- Image and signal preprocessing
+- AI/ML-based detection and enhancement techniques
+- Robust, scalable system design
+- Performance evaluation under real-world constraints
+
+This project aims to move beyond prototypes and towards **research-backed, deployment-ready solutions**.
 
 ---
 
-### 🎵 AI-Based Music Generator  
-Web-based application that generates music patterns using AI concepts.  
-**Tech:** HTML, JavaScript  
-
-👉 Continuously building, refining, and learning.
-
----
-
-## 🧠 DSA & Problem Solving
-- Regular practice on **LeetCode**
-- Focus on **Arrays, Strings, Recursion, STL**
-- Emphasis on writing optimized and readable solutions
-- Learning patterns, not memorization
+## 📊 GitHub Stats & Activity
+![Reya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyagarg13&show_icons=true)
+![Reya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reyagarg13)
+![Reya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reyagarg13&layout=compact)
 
 ---
 
-## 📊 GitHub Stats
-![Reya's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyagarg13&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reyagarg13&layout=compact)
+## 🛠 Languages & Tools
+![C++](https://img.shields.io/badge/C%2B%2B-blue)
+![Python](https://img.shields.io/badge/Python-yellow)
+![Java](https://img.shields.io/badge/Java-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
+![HTML5](https://img.shields.io/badge/HTML5-red)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![React](https://img.shields.io/badge/React-blue)
+![Node.js](https://img.shields.io/badge/Node.js-green)
 
 ---
 
-## 📫 Let’s Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/reyagarg-b71a1b274  
-- 📧 Email: reyagarg13@gmail.com  
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=reyagarg13)
 
-✨ Open to internships, collaborations, and learning opportunities.
+---
+
+## 📄 License
+This project is licensed under the **MIT License**.
