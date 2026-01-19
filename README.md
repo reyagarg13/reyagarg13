@@ -34,21 +34,21 @@
 
 Here are some projects that reflect my interests in **AI, full-stack development, and problem-solving**:
 
-- 🩰 **Nritya AI**  
-  AI-powered dance learning platform with choreography generation, motion tracking, emotion detection, and beat synchronization.  
-  *(Python, Machine Learning, Computer Vision)*  
-
-- 🏋️ **FitTrack Pro**  
-  Web-based fitness tracking application to monitor workouts, routines, and personal fitness goals.  
-  *(HTML, CSS, JavaScript)*    
-
-- 🌿 **BEAUTY_OF_GARDEN**  
-  A creative Python project focused on experimentation and visual logic.  
-  *(Python)*  
-
 - 🚀 **Cofoundr AI**
   GenAI-powered startup co-founder platform that transforms a single idea into complete startup assets such as pitch decks, MVP mockups, logos, landing pages, and marketing content.
 *(React, Node.js, Python, Flask, Gemini API, Firebase)*
+
+- 🏋️ **FitTrack Pro**  
+  Web-based fitness tracking application to monitor workouts, routines, and personal fitness goals.  
+  *(HTML, CSS, JavaScript)*
+
+- 🩰 **Nritya AI**  
+  AI-powered dance learning platform with choreography generation, motion tracking, emotion detection, and beat synchronization.  
+  *(Python, Machine Learning, Computer Vision)*  
+    
+- 🌿 **BEAUTY_OF_GARDEN**  
+  A creative Python project focused on experimentation and visual logic.  
+  *(Python)*  
 
 ---
 
