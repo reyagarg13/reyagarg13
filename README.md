@@ -114,7 +114,10 @@ This project aims to move beyond prototypes and towards **research-backed, deplo
 ---
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=reyagarg13)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=reyagarg13&theme=radical&no-bg=true&margin-w=15&column=5&v=1" alt="Reya's Trophies" />
+</p>
 
 ---
 
