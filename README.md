@@ -93,19 +93,20 @@ This project aims to move beyond prototypes and towards **research-backed, deplo
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reyagarg13&theme=radical&no-bg=true&margin-w=15&v=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=reyagarg13&theme=radical&no-bg=true&margin-w=15&cache=fresh" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=reyagarg13&show_icons=true&theme=radical&hide_border=true&v=1" alt="Reya's GitHub Stats" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=reyagarg13&theme=radical&hide_border=true&v=1" alt="Reya's Streak Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reyagarg13&show_icons=true&theme=radical&hide_border=true&cache=fresh" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=reyagarg13&theme=radical&hide_border=true&cache=fresh" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyagarg13&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyagarg13&layout=compact&theme=radical&hide_border=true&cache=fresh" />
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github=reyagarg13&color_snake=purple&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&v=1" alt="Contribution Snake" />
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github=reyagarg13&color_snake=purple&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&cache=fresh" alt="Snake" />
 </p>
 
 ---
