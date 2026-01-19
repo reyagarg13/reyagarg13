@@ -30,25 +30,49 @@
 
 ---
 
-## 🚀 Projects I’m proud of
+## 🚀 Featured Projects
 
-Here are some projects that reflect my interests in **AI, full-stack development, and problem-solving**:
-
-- 🚀 **Cofoundr AI**
-  GenAI-powered startup co-founder platform that transforms a single idea into complete startup assets such as pitch decks, MVP mockups, logos, landing pages, and marketing content.
-*(React, Node.js, Python, Flask, Gemini API, Firebase)*
-
-- 🏋️ **FitTrack Pro**  
-  Web-based fitness tracking application to monitor workouts, routines, and personal fitness goals.  
-  *(HTML, CSS, JavaScript)*
-
-- 🩰 **Nritya AI**  
-  AI-powered dance learning platform with choreography generation, motion tracking, emotion detection, and beat synchronization.  
-  *(Python, Machine Learning, Computer Vision)*  
-    
-- 🌿 **BEAUTY_OF_GARDEN**  
-  A creative Python project focused on experimentation and visual logic.  
-  *(Python)*  
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Cofoundr AI</h3>
+      <p>GenAI-powered platform transforming ideas into pitch decks, MVPs, and marketing assets.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> 
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini_API-8E75FF?style=flat-square&logo=google&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/reyagarg13"><b>View Project →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩰 Nritya AI</h3>
+      <p>AI dance tutor with motion tracking, choreography generation, and emotion detection.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/reyagarg13/Nritya-AI"><b>View Project →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏋️ FitTrack Pro</h3>
+      <p>Modern web-app for monitoring workouts and achieving personal fitness milestones.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <br><br>
+      <a href="https://github.com/reyagarg13"><b>View Project →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌿 Beauty of Garden</h3>
+      <p>A visual logic experiment using Python to create creative digital environments.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Logic-FFD700?style=flat-square&logo=powershell&logoColor=black" />
+      <br><br>
+      <a href="https://github.com/reyagarg13/BEAUTY_OF_GARDEN"><b>View Project →</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
