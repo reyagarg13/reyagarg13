@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:714DFF,100:B24DFF&height=220&section=header&text=Hi%20there,%20I'm%20Reya!%20👋&fontSize=60&animation=fadeIn&fontAlignY=38" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=714DFF&center=true&vCenter=true&width=500&lines=B.Tech+CS+at+Bennett+University;Building+real,+usable+software;C++%2C+Java%2C+and+Python;Diving+deep+into+DSA+%26+AI/ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=714DFF&center=true&vCenter=true&width=500&lines=B.Tech+CSE+at+Bennett+University;Building+real,+usable+software;C++%2C+Java%2C+and+Python;Diving+deep+into+DSA+%26+AI/ML" alt="Typing SVG" />
 </div>
 
 ### 👩‍💻 About Me
