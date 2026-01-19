@@ -41,7 +41,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Gemini_API-8E75FF?style=flat-square&logo=google&logoColor=white" />
       <br><br>
-      <a href="https://github.com/reyagarg13"><b>View Project →</b></a>
+      <a href="https://github.com/reyagarg13/Cofoundr-AI"><b>View Project →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🩰 Nritya AI</h3>
