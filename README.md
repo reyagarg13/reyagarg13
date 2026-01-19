@@ -1,8 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:714DFF,100:B24DFF&height=220&section=header&text=Hi%20there,%20I'm%20Reya!%20👋&fontSize=60&animation=fadeIn&fontAlignY=38" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=714DFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Intern+Aspirant;Product-oriented+problem+solver;Building+real-world+software;Ideas+→+Code+→+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=714DFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Intern+Aspirant;Product-oriented+problem+solver;Building+real-world+software;Ideas+→+Code+→+Impact" alt="Typing SVG" />
 </div>
+
+---
 
 ### 👩‍💻 About Me
 - 🎓 **Education**: B.Tech Computer Science student at **Bennett University**.
