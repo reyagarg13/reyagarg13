@@ -1,15 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:714DFF,100:B24DFF&height=220&section=header&text=Hi%20there,%20I'm%20Reya!%20👋&fontSize=60&animation=fadeIn&fontAlignY=38" />
 
-I'm Reya — a B.Tech Computer Science student at Bennett University.  
-I enjoy building **real, usable software** and learning by shipping projects.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=714DFF&center=true&vCenter=true&width=500&lines=B.Tech+CS+at+Bennett+University;Building+real,+usable+software;C++%2C+Java%2C+and+Python;Diving+deep+into+DSA+%26+AI/ML" alt="Typing SVG" />
+</div>
 
-I code in **C++, Java, and Python**, and I’m currently diving deep into **DSA and AI/ML**.
+### 👩‍💻 About Me
+- 🎓 **Education**: B.Tech Computer Science student at **Bennett University**.
+- 🛠️ **Philosophy**: I enjoy building **real, usable software** and learning by shipping projects.
+- 🚀 **Current Focus**: I'm building **Nritya AI** — an AI-powered dance learning platform.
+- 🤝 **Collaboration**: Looking to partner on **AI/ML and system-focused projects**.
+- 💬 **Knowledge Sharing**: Ask me about **C++, DSA, AI/ML**, or turning wild ideas into working prototypes.
 
-- 🚀 I’m currently working on **Nritya AI** — an AI-powered dance learning platform  
-- 🤝 I’m looking to collaborate on **AI/ML and system-focused projects**  
-- 💬 Ask me about **C++, DSA, AI/ML, or turning ideas into working prototypes**  
-- 📫 How to reach me:  
-  [LinkedIn](https://www.linkedin.com/in/reya-garg-b71a1b274) • reyagarg13@gmail.com  
+---
+
+### 📫 Let's Connect!
+<p align="left">
+<a href="https://www.linkedin.com/in/reya-garg-b71a1b274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Reya Garg" height="30" width="40" /></a>
+<a href="mailto:reyagarg13@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="reyagarg13@gmail.com" height="30" width="40" /></a>
+</p>
 
 ---
 
