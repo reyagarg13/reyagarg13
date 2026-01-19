@@ -46,6 +46,10 @@ Here are some projects that reflect my interests in **AI, full-stack development
   A creative Python project focused on experimentation and visual logic.  
   *(Python)*  
 
+- 🚀 **Cofoundr AI**
+  GenAI-powered startup co-founder platform that transforms a single idea into complete startup assets such as pitch decks, MVP mockups, logos, landing pages, and marketing content.
+*(React, Node.js, Python, Flask, Gemini API, Firebase)*
+
 ---
 
 ## 🛡️ Upcoming Project — DRDO Problem Statement
