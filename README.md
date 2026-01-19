@@ -38,17 +38,9 @@ Here are some projects that reflect my interests in **AI, full-stack development
   AI-powered dance learning platform with choreography generation, motion tracking, emotion detection, and beat synchronization.  
   *(Python, Machine Learning, Computer Vision)*  
 
-- 💼 **FinSteps BizGrow**  
-  Business-focused financial platform for managing loans, investments, and growth insights with backend logic and database integration.  
-  *(HTML, CSS, JavaScript, Backend, Database)*    
-
 - 🏋️ **FitTrack Pro**  
   Web-based fitness tracking application to monitor workouts, routines, and personal fitness goals.  
   *(HTML, CSS, JavaScript)*    
-
-- 🎵 **AI-Based Music Generator**  
-  Web application that generates music patterns using AI concepts and algorithmic logic.  
-  *(HTML, JavaScript)*  
 
 - 🌿 **BEAUTY_OF_GARDEN**  
   A creative Python project focused on experimentation and visual logic.  
